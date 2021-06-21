@@ -22,8 +22,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:mayla.icasaimob@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mayla.icasaimob@gmail.com"></a>
+  <a href="mailto:mayla.alves@hotmail.com" alt="Outlook" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mayla.alves@hotmail.com"></a>
 
   <a href="https://www.linkedin.com/in/maylassantos" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maylassantos"></a>
