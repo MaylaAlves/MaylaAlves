@@ -22,14 +22,19 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mayla.icasaimob@gmail.com" /></a>
+  <a href="mailto:mayla.icasaimob@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mayla.icasaimob@gmail.com"></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maylassantos" /></a>
+  <a href="https://www.linkedin.com/in/maylassantos" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maylassantos"></a>
+
+  <a href="http://wa.me/5512982166688" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://wa.me/5512982166688"></a>
   
  ![MaylaAlves Status](https://github-readme-stats.vercel.app/api?username=MaylaAlves&show_icons=true&theme=dark)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaylaAlves&layout=compact)](https://github.com/MaylaAlves/github-readme-stats)
+  
+ <img src="https://camo.githubusercontent.com/ed55c707fda76a586e183909c9501bd6cad8fc249efdc5a634ff85aa23584ea2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652532304c696b65253230612532304769726c2d2546302539462539362541342d626c756576696f6c65743f7374796c653d666f722d7468652d6261646765">
   
 
