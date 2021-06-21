@@ -4,7 +4,7 @@
 # Olá!!!  Eu sou a Mayla, :D
 <p align="left">
 
-  Sou formada em Geografia e Logística, trabalho com atendimento ao cliente e no momento estou me aventurando no mundo da programação
+  Sou formada em Geografia e Logística, trabalho com atendimento ao cliente e no momento estou me aventurando no mundo da programação,
   Pois acredito que a tecnologia domina o mundo e as mulheres devem estar presentes nesse processo.
 
 </p>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Segue meus contatos, caso tenha interesse por algum projeto meu ou queira apenas trocar experiências: ⤵️
+  💌 Seguem meus contatos, caso tenha interesse por algum projeto meu ou queira apenas trocar experiências: ⤵️
 </p>
 
 <p align="left">
@@ -27,6 +27,8 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maylassantos" /></a>
+  
+ ![MaylaAlves Status](https://github-readme-stats.vercel.app/api?username=MaylaAlves&show_icons=true&theme=dark)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaylaAlves&layout=compact)](https://github.com/MaylaAlves/github-readme-stats)
   
