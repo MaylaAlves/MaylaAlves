@@ -4,8 +4,7 @@
 # Olá!!!  Eu sou a Mayla, :D
 <p align="left">
 
-  Sou formada em Geografia e Logística, trabalho com atendimento ao cliente e no momento estou me aventurando no mundo da programação,
-  Pois acredito que a tecnologia domina o mundo e as mulheres devem estar presentes nesse processo.
+  Sou formada em Geografia, Logística e atualmente curso Engenharia de Computação. Trabalho como Analista RPA e acredito que a tecnologia domina o mundo e as mulheres devem estar presentes nesse processo.
 
 </p>
 
