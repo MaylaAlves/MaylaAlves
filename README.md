@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Java.</strong>
+  🦄 Linguagens: <strong>Python, Low-Code.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VisualStudioCode, Eclipse, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VisualStudioCode, Uipath, Power Automation, Git e GitHub.</strong>
 </p>
 
 <p align="left">
